@@ -1,0 +1,164 @@
+{
+ "uihBwtPIBxM": {
+  "len": 466,
+  "channel": "Computerphile",
+  "embed": "true",
+  "title": "Finding the Edges (Sobel Operator) - Computerphile"
+ },
+ "yb2tPt0QVPY": {
+  "len": 305,
+  "channel": "LearnOpenCV",
+  "embed": "true",
+  "title": "2D Convolution Explained: Fundamental Operation in Computer Vision"
+ },
+ "4AvTMVD9ig0": {
+  "len": 312,
+  "channel": "Cyrill Stachniss",
+  "embed": "true",
+  "title": "SIFT - 5 Minutes with Cyrill"
+ },
+ "0sPlnrEMyYk": {
+  "len": 353,
+  "channel": "Kevin Wood | Robotics \\u0026 AI",
+  "embed": "true",
+  "title": "OpenCV Python ORB Feature Detection (ORB Algorithm Explained)"
+ },
+ "ND2fa08vxkY": {
+  "len": 359,
+  "channel": "Cyrill Stachniss",
+  "embed": "true",
+  "title": "Camera Intrinsics and Extrinsics - 5 Minutes with Cyrill"
+ },
+ "O7B2vCsTpC0": {
+  "len": 446,
+  "channel": "Computerphile",
+  "embed": "true",
+  "title": "Stereo 3D Vision (How to avoid being dinner for Wolves) - Computerphile"
+ },
+ "auhpPoAqprk": {
+  "len": 279,
+  "channel": "Cyrill Stachniss",
+  "embed": "true",
+  "title": "Fundamental and Essential Matrix - 5 Minutes with Cyrill"
+ },
+ "9D5rrtCC_E0": {
+  "len": 272,
+  "channel": "Cyrill Stachniss",
+  "embed": "true",
+  "title": "RANSAC - 5 Minutes with Cyrill"
+ },
+ "xdlLXEyCoJY": {
+  "len": 321,
+  "channel": "Cyrill Stachniss",
+  "embed": "true",
+  "title": "Projective 3 Point Algorithm - 5 Minutes with Cyrill"
+ },
+ "H_1OtbMD-sE": {
+  "len": 722,
+  "channel": "Hummingbird",
+  "embed": "true",
+  "title": "Visual Odometry Series - Part 1 (Concept and Math)"
+ },
+ "uuiaqGLFYa4": {
+  "len": 327,
+  "channel": "Cyrill Stachniss",
+  "embed": "true",
+  "title": "Factor Graph - 5 Minutes with Cyrill"
+ },
+ "lmj2Jk5tl60": {
+  "len": 292,
+  "channel": "Cyrill Stachniss",
+  "embed": "true",
+  "title": "Bundle Adjustment - 5 Minutes with Cyrill"
+ },
+ "BuRCJ2fegcc": {
+  "len": 300,
+  "channel": "Cyrill Stachniss",
+  "embed": "true",
+  "title": "SLAM - 5 Minutes with Cyrill"
+ },
+ "lIdmbrRahk8": {
+  "len": 431,
+  "channel": "ModalAI",
+  "embed": "true",
+  "title": "What is Visual Inertial Odometry (VIO)?"
+ },
+ "NetSJM590Lo": {
+  "len": 271,
+  "channel": "AI Papers Academy",
+  "embed": "true",
+  "title": "Vision Transformers Explained | The ViT Paper"
+ },
+ "5T-iXNNiwIs": {
+  "len": 288,
+  "channel": "deeplizard",
+  "embed": "true",
+  "title": "Fine-tuning a Neural Network explained"
+ },
+ "JuH79E8rdKc": {
+  "len": 255,
+  "channel": "Matthew Tancik",
+  "embed": "true",
+  "title": "NeRF: Neural Radiance Fields"
+ },
+ "sQcrZHvrEnU": {
+  "len": 508,
+  "channel": "Bilawal Sidhu",
+  "embed": "true",
+  "title": "3D Gaussian Splatting - Explained!"
+ },
+ "RgQbweTwrkU": {
+  "len": 404,
+  "channel": "LearnOpenCV",
+  "embed": "true",
+  "title": "Intersection Over Union (IoU) in Object Detection &amp;  Segmentation"
+ },
+ "-DTztxwUYjA": {
+  "len": 268,
+  "channel": "DataMListic",
+  "embed": "true",
+  "title": "Object Detection Part 7: Detection Transformers (DETR), Object Queries"
+ },
+ "NhdzGfB1q74": {
+  "len": 631,
+  "channel": "rupert ai",
+  "embed": "true",
+  "title": "The U-Net (actually) explained in 10 minutes"
+ },
+ "qRLKYSLXElM": {
+  "len": 183,
+  "channel": "Martin Sundermeyer",
+  "embed": "true",
+  "title": "Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes (ICRA 2021)"
+ },
+ "A_-nHCK9oBs": {
+  "len": 420,
+  "channel": "Dr Stefan Schubert",
+  "embed": "true",
+  "title": "ICRA 2024 - Visual Place Recognition: A Tutorial"
+ },
+ "YF8BbMJIgCo": {
+  "len": 309,
+  "channel": "DataMListic",
+  "embed": "true",
+  "title": "Cosine Similarity is Just Direction, Not Distance"
+ },
+ "AunotauS5yI": {
+  "len": 622,
+  "channel": "ritvikmath",
+  "embed": "true",
+  "title": "Probability Calibration : Data Science Concepts"
+ },
+ "Osju20L6Z3I": {
+  "len": 618,
+  "channel": "TwinEd Productions",
+  "embed": "true",
+  "title": "Uncertainty (Aleatoric vs Epistemic) | Machine Learning"
+ },
+ "eMlx5fFNoYc": {
+  "len": 1569,
+  "channel": "3Blue1Brown",
+  "embed": "true",
+  "title": "Attention in transformers, step-by-step | Deep Learning Chapter 6"
+ }
+}

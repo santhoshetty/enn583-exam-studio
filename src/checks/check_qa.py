@@ -1,0 +1,20 @@
+"""Verifies the numbers in the Practice Q&A tab."""
+import math, numpy as np
+def c(n,v,e,t=1e-3): print(f'{n:30s} {v:.4f}', 'OK' if abs(v-e)<t else f'MISMATCH {e}')
+c('W1 d3',(150-30)/2,60); c('W1 d4',(160-90)/2,35)
+c('W2 hamming',bin(0b11001010^0b10011011).count('1'),3)
+f=4e-3/2e-6; c('W3 f',f,2000); c('W3 u',640+f*-0.5/5,440); c('W3 v',360+f*0.25/5,460)
+c('W3 Z',600*0.1/12,5); c('W3 dZ',25*0.5/60,0.2083)
+c('W4 k',math.log(0.01)/math.log(1-0.6**5),56.9,0.05)
+c('W5 err',math.hypot(-3,-4),5)
+c('W6 mean',(10*0.25+12)/1.25,11.6); c('W6 sd',math.sqrt(1/1.25),0.8944)
+c('W7 imu',0.5*0.02*900,9)
+c('W8 tok16',(384//16)**2,576); c('W8 tok32',(384//32)**2,144); c('W8 ratio',(576/144)**2,16)
+tp=[1,0,1,1,0];G=4;ct=np.cumsum(tp);cf=np.cumsum(1-np.array(tp));P=ct/(ct+cf);R=ct/G;print('W10 P',P.round(3),'R',R)
+mr=np.r_[0,R,R[-1]];mp=np.r_[0,P,0]
+for i in range(len(mp)-2,-1,-1): mp[i]=max(mp[i],mp[i+1])
+ix=np.where(mr[1:]!=mr[:-1])[0];c('W10 AP',np.sum((mr[ix+1]-mr[ix])*mp[ix+1]),0.625)
+c('W11 fail ratio',(100-90.20)/(100-80.39),0.4997)
+c('W12 F1',2*0.75*0.5/1.25,0.6)
+c('W13 ECE',0.5*0.15+0.5*0.02,0.085)
+z=np.array([2,1,0.]);c('W13 E1',-math.log(np.exp(z).sum()),-2.4076);c('W13 E2',-math.log(np.exp(z+4).sum()),-6.4076)
